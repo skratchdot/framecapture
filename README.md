@@ -21,7 +21,7 @@ a border to it in one swoop.
 
 ## Installation ##
 
-    sudo curl https://github.com/skratchdot/framecapture/raw/master/framecapture.sh -o /usr/local/bin/framecapture
+    sudo curl https://raw.github.com/skratchdot/framecapture/master/framecapture.sh -o /usr/local/bin/framecapture
     sudo chmod +x /usr/local/bin/framecapture
 
 
